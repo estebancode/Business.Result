@@ -7,6 +7,8 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Study Friends</Company>
     <RepositoryUrl>https://github.com/estebancode/Business.Result.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/estebancode/Business.Result</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/estebancode/Business.Result/master/Business.Result.Base/Img/BusinessResult.png?raw=true</PackageIconUrl>
   </PropertyGroup>
 
 </Project>

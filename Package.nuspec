@@ -7,13 +7,12 @@
     <owners>Esteban Beckett</owners>
     <licenseUrl>https://github.com/estebancode/Business.Result</licenseUrl>
     <projectUrl>https://github.com/estebancode/Business.Result</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/estebancode/Business.Result/master/Business.Result.Base/Img/BusinessResult.png?raw=true</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Clase encargada de encapsular todas las operaciones en la capa de negocio.  .NET Standard 2.0</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2019</copyright>
-    <tags>BusinessResult</tags>
-    <tags>.NET Standard 2.0</tags>
+    <tags>BusinessResult .NET Standard 2.0</tags>
     <dependencies>
       <dependency id="SampleDependency" version="1.0" />
     </dependencies>
