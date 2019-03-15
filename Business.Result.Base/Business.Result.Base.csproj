@@ -6,6 +6,7 @@
     <Description>Clase encargada de encapsular todas las operaciones en la capa de negocio.  .NET Standard 2.0</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Study Friends</Company>
+    <RepositoryUrl>https://github.com/estebancode/Business.Result.git</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
