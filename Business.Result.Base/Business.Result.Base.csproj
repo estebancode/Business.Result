@@ -9,6 +9,9 @@
     <RepositoryUrl>https://github.com/estebancode/Business.Result.git</RepositoryUrl>
     <PackageProjectUrl>https://github.com/estebancode/Business.Result</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/estebancode/Business.Result/master/Business.Result.Base/Img/BusinessResult.png?raw=true</PackageIconUrl>
+    <Copyright>Copyright 2019 (c) Study Friends. All rights reserved.</Copyright>
+    <NeutralLanguage>es-CO</NeutralLanguage>
+    <PackageTags>Business Result .Net Standard 2.0</PackageTags>
   </PropertyGroup>
 
 </Project>
