@@ -12,6 +12,7 @@
     <Copyright>Copyright 2019 (c) Study Friends. All rights reserved.</Copyright>
     <NeutralLanguage>es-CO</NeutralLanguage>
     <PackageTags>Business Result .Net Standard 2.0</PackageTags>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/estebancode/Business.Result/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
