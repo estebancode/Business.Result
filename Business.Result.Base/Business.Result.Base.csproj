@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Esteban Beckett</Authors>
+    <Description>Clase encargada de encapsular todas las operaciones en la capa de negocio.  .NET Standard 2.0</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>Study Friends</Company>
+  </PropertyGroup>
+
+</Project>

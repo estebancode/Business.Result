@@ -3,17 +3,16 @@
 
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
-using System.Threading.Tasks;
 
 #endregion
 
-namespace Business.Result.Framework
+namespace Business.Result.Base
 {
+
     /// <summary>
-    /// Clase encargada de encapsular todas las operaciones en la capa de negocio.
+    /// Clase encargada de encapsular todas las operaciones en la capa de negocio. NET Standard 2.0
     /// </summary>
     /// <typeparam name="T"></typeparam>
     [DataContract]
